@@ -26,7 +26,7 @@ class tframewin extends JFrame implements KeyListener {
     Timer timer;
     
     tframewin() {
-   	 setTitle( "TETRIS" );
+   	 setTitle( "TETRIS 0.01" );
    	 setBounds( 100, 100, 200, 320 );
    	 setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE );
  
